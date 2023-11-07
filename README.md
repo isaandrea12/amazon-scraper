@@ -2,6 +2,8 @@
 
 This API allows you to scrape Amazon data such as products details, product reviews, product offers and search results.
 
+Generate API key at [ScraperAPI.com](ScraperAPI.com).
+
 ```
 npm run dev
 ```
